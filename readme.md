@@ -1,0 +1,1 @@
+desc: create a bucket with its content
